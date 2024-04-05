@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on frontend developer at [RS Harapan Kita](https://www.rsabhk.co.id/)<br>👨‍💻 All of my projects are available at https://januarmaksum.vercel.app<br>📫 How to reach me januarmaksum@gmail.com
+<h1 align="center"> Hi 👋🏻, I'm Januar </br> 
+</h1>
+🔭 I’m currently working on frontend developer at [RS Harapan Kita](https://www.rsabhk.co.id/)<br>👨‍💻 All of my projects are available at https://januarmaksum.vercel.app
 
 
 ## 🌐 Socials:
