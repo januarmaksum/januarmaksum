@@ -1,7 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Januar </br> 
 </h1>
-🔭 I’m currently working on frontend developer at [RS Harapan Kita](https://www.rsabhk.co.id/)<br>👨‍💻 All of my projects are available at https://januarmaksum.vercel.app
-
+🔭 I’m currently working on frontend developer at <a href="https://rsabhk.co.id/" target="_blank">RS Harapan Kita</a> <br>👨‍💻 All of my projects are available at <a href="https://januarmaksum.vercel.app" target="_blank">januarmaksum.vercel.app</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/januarmaksum) 
