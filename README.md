@@ -2,7 +2,7 @@
 <ul>
   <li>🔭 I’m currently working on frontend developer at <a href="https://rsabhk.co.id/" target="_blank">RS Harapan Kita</a></li>
   <li>👨‍💻 All of my projects are available at <a href="https://januarmaksum.vercel.app/" target="_blank">my Portfolio</a></li>
-  <li>🚀 Available for project Web Development and Design Service, learn more <a href="https://crav-pixel.vercel.app" target="_blank">CravPixel</a></li>
+  <li>🚀 Available for project Web Development and Design Service, learn more <a href="https://cravpixel.vercel.app" target="_blank">CravPixel</a></li>
 </ul>
 
 
