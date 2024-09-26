@@ -19,4 +19,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![](https://komarev.com/ghpvc/?username=januarmaksum&style=flat-square)
