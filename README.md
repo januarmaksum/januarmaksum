@@ -6,29 +6,35 @@
 </ul>
 
 
+## 🚀 My Skills
 
+- **Language**  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="20"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="20"/>
 
-## My Skills
-### Language
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-### Frontend
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
-### Mobile
-[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)
-### Styling
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-### Backend
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-[![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-### Data Tools
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
-### Low-code
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
+- **Frontend**  
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="20"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="20"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="20"/>
+
+- **Mobile**  
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="24"/>
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff" height="24"/>
+
+- **Styling**  
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" height="24"/>
+  <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" height="24"/>
+
+- **Backend**  
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=%2300DC82" height="24"/>
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" height="24"/>
+
+- **Data Tools**  
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="24"/>
+
+- **Low-code**  
+  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" height="24"/>
+
 
