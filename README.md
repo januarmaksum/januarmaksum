@@ -6,16 +6,16 @@
 </ul>
 
 
-## 🚀 My Skills
+## My Skills
 
 - **Language**  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="20"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="24"/>
 
 - **Frontend**  
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="20"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="20"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="24"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="24"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="24"/>
 
 - **Mobile**  
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="24"/>
