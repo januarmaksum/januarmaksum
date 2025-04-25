@@ -14,8 +14,9 @@
 
 - **Frontend**  
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="24"/>
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="24"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="24"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=%2300DC82" height="24"/>
 
 - **Mobile**  
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="24"/>
@@ -27,8 +28,6 @@
   <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" height="24"/>
 
 - **Backend**  
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=%2300DC82" height="24"/>
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" height="24"/>
 
 - **Data Tools**  
