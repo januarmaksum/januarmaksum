@@ -1,7 +1,7 @@
 <h1> Hi👋🏻, I'm Januar </br> </h1>
 <ul>
-  <li>🔭 I’m currently working as a Frontend Developer at <a href="https://bri.co.id/" target="_blank">Bank BRI</a></li>
-  <li>👨‍💻 All of my projects are available at my <a href="https://januarmaksum.vercel.app/" target="_blank">Portfolio</a></li>
+  <li>🔭 I’m currently working as a Frontend Engineer at <a href="https://ajaib.co.id" target="_blank">Ajaib Sekuritas</a></li>
+  <li>👨‍💻 All of my projects are available at my <a href="https://januarmaksum.vercel.app" target="_blank">Portfolio</a></li>
   <li>🔗 Let’s connect on <a href="https://www.linkedin.com/in/januarmaksum" target="_blank">Linkedin</a></li>
 </ul>
 
